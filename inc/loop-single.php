@@ -30,7 +30,7 @@
 					<article>
 						<div class="archive-thumbail">
 							<?php 
-							the_post_thumbnail('slider-homee',
+							the_post_thumbnail('slider-home',
 							array( 'class' => 'img-responsive')); 
 							?>
 						</div>
